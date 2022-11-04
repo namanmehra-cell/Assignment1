@@ -1,4 +1,4 @@
-//Count all sub-arrays sum divided by k. Time complexity - O(n^2)
+
 
 package demo;
 
